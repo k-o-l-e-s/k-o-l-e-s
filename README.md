@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @k-o-l-e-s
+- 👀 I’m interested in web3, crypto and blockchain
+- 🌱 I’m currently learning NEAR Smart Contracts and Rust
+- 💞️ I’m looking to collaborate on dApp project
